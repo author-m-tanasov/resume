@@ -54,13 +54,6 @@ h1, h2, h3 {
 }
 #email:before{
 content:'\2709';
-
-}
-#tel:before{
-    content: '';
-    width: 10px;
-    height: 10px;
-  
 }
 
 
